@@ -1,0 +1,24 @@
+body {
+     background-image: url(https://i.imgur.com/K2TpvG8.jpg);
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        background-attachment: fixed;
+        background-size: cover;
+
+}
+::-webkit-scrollbar {
+    width: 15px;
+    height: 15px;
+    }
+    ::-webkit-scrollbar-track-piece  {
+    background-color:rgb(21, 21, 47);
+    }
+    ::-webkit-scrollbar-thumb:vertical {
+    height: 30px;
+    background-color: rgb(255, 195, 0);
+    }
+
+    :hover {
+        color: #b09fd6;
+        text-decoration-color: #b09fd6;
+      }
